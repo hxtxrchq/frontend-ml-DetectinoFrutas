@@ -3,3 +3,4 @@ Frontend para proyecto Detección temprana de enfermedades en frutas usando CNN 
 
 
 Proyecto desplegado https://fruitdetective.vercel.app/
+Backend: https://github.com/hxtxrchq/backend-fast-api-DeteccionFrutas/tree/main
